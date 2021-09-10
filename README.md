@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+### This is a test to see if my bio page is working. 
+### I am currently working on my capstone project
+### I am currently learning about machine learning and neural networks.
 <!--
 **mechelement/mechelement** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
